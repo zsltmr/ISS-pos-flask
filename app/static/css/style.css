@@ -1,0 +1,26 @@
+.body {
+  background-color: #ffffff;
+}
+
+#space-station-icon, #weather_icon {
+    width: 200px;
+    padding: 20px;
+    margin: auto;
+}
+
+.card_title {
+    color: 	#323a45;
+}
+
+.card_text {
+    color: 	#323a45;
+}
+
+.card {
+    margin-top: 30px;
+    background-color: #ffffff;
+}
+
+.container {
+    justify-content: center;
+}
